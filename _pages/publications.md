@@ -12,8 +12,6 @@ author_profile: true
 {% include base_path %}
 
 
-**Minimax rate of consistency for linear models with missing values** ([paper](https://arxiv.org/pdf/2202.01463.pdf))
-
+**Minimax rate of consistency for linear models with missing values** ([paper](https://proceedings.mlr.press/v162/ayme22a/ayme22a.pdf))
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet. 
-
-*Preprint*
+*The Thirty-ninth International Conference on Machine Learning (ICML22)* 
