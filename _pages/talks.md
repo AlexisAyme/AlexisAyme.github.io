@@ -10,5 +10,9 @@ redirect_from:
 {% include base_path %}
 
 *The Thirty-ninth International Conference on Machine Learning (ICML)*  
-Baltimore, 2022.  
+Baltimore, July 2022.  
 [slides](/files/slideICML22.pdf)
+
+*Johns Hopkins University*  
+Baltimore, July 2022.  
+[slides](/files/slideJHU22.pdf)
