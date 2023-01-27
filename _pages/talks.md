@@ -16,3 +16,7 @@ Baltimore, July 2022.
 *Johns Hopkins University*  
 Baltimore, July 2022.  
 [slides](/files/slideJHU22.pdf)
+
+*YSP: Young Statisticians and Probabilists*  
+Institut Henri Poincaré, Paris, 2023.  
+[paper](/files/HAL_ImputationInHD.pdf)[slides](/files/AlexisAymeYSP.pdf)
