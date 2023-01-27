@@ -19,4 +19,4 @@ Baltimore, July 2022.
 
 *YSP: Young Statisticians and Probabilists*  
 Institut Henri Poincaré, Paris, 2023.  
-[paper](/files/HAL_ImputationInHD.pdf)[slides](/files/AlexisAymeYSP.pdf)
+[paper](/files/HAL_ImputationInHD.pdf) [slides](/files/AlexisAymeYSP.pdf)
