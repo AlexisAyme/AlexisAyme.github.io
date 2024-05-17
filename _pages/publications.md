@@ -13,7 +13,7 @@ author_profile: true
 
 **Random features models: a way to study the success of naive imputation** ([paper](https://arxiv.org/html/2402.03839v1))         
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet.                                                             
-*Preprint* 
+*The Forty-first International Conference on Machine Learning (ICML24)* 
 
 **Naive imputation implicitly regularizes high-dimensional linear models** ([paper](/files/HAL_ImputationInHD.pdf))         
 A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet.                                                             
