@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Breaking the curse of dimensionality for linear rules: optimal predictors over the ellipsoid** ([paper](https://arxiv.org/pdf/2509.21174?))
+**Breaking the curse of dimensionality for linear rules, optimal predictors over the ellipsoid** ([paper](https://arxiv.org/pdf/2509.21174?))
 A. Ayme, B.Loureiro
 *Preprint*
 
