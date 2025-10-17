@@ -10,10 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
 **Breaking the curse of dimensionality for linear rules: optimal predictors over the ellipsoid** ([paper](https://arxiv.org/pdf/2509.21174?))
 A. Ayme, B.Loureiro
 *Preprint*
-
 
 **Harnessing pattern-by-pattern linear classifiers for prediction with missing data** ([paper](https://arxiv.org/abs/2405.09196))         
 A. Reyero Lobo, A. Ayme, C. Boyer, A. Dieuleveut, E. Scornet.                                                             
