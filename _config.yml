@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexis Ayme"
   avatar           : "profile.png"
-  bio              : "PhD student"
-  location         : "LPSM, Sorbonne-Université"
+  bio              : "Post Doc"
+  location         : "DI-ENS, CNRS"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :"alexis.ayme@ens.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
